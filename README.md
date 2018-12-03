@@ -14,7 +14,9 @@ We trained three models for the classifier ensemble
   -VGG16
   -VGG19
   -InceptionV3
- 
+
+You do not need to retrain them yourself, it is possible to download pre-trained models from the releases tab.
+
 Training data is from stage 1 of the RSNA challenge on Kaggle
 https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data
 
