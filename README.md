@@ -1,4 +1,4 @@
-# thesis
+# Bachelor Thesis Project
 Thesis-Project(RSNA-Pneumonia-Detection)
 
 The recent wave of developments in artificial intelligence and data science inspired us to work on this thesis topic that challenged us and developed our skills. 
